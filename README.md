@@ -34,13 +34,19 @@ James is a technologist, scientist, developer, and technology leader.
 •	Ansible deployment structures for multiple projects, Docker container setups
 •	Apache Storm topology using Pyleus
 •	Multiple web applications including high profile showcase projects
-## Senior Python Engineer</br>SkilledUp(Apollo Education Group) </br> California, USA
+## Senior Python Engineer
+### SkilledUp(Apollo Education Group)
+### California, USA
 ### 01/2015 – 03/2015(Division shut down)
 •	Manager and maintainer of out Flask based API as well as other backend functions.
 •	Docker container setups
 •	Project lead on establishing unit testing framework and integration with Google DFP
-## Contract Computer Scientist </br>Oneida Total Integrated Enterprises/EPA </br>	USA
-## Senior Software Engineer and Data Scientist </br>Sonobi </br> Florida, USA
+## Contract Computer Scientist 
+### Oneida Total Integrated Enterprises/EPA
+### USA
+## Senior Software Engineer and Data Scientist 
+### Sonobi 
+### Florida, USA
 ### 12/2013 – 01/2015
 •	Reporting service, real time ad service, and large scale data warehousing.
 •	Realtime log analytics using Logstash, set approximations with HyperLogLog and minhash techniques. Query optimization, pandas, numpy, and scipy.
