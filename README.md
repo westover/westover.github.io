@@ -1,4 +1,4 @@
-## Welcome to James Westover's Page
+## James Westover
 
 James is a technologist, scientist, developer, and technology leader.
 
