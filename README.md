@@ -80,8 +80,6 @@ James is a technologist, scientist, developer, and technology leader.
 ### 9/2008 – 5/2009
 •	Building and installing a hardware and software replacement of a computer control system, which requires microsecond resolution, while concurrently developing in NI LabView replacement software.
 
-
-
 # Education
 
 ## MBA
@@ -102,3 +100,22 @@ James is a technologist, scientist, developer, and technology leader.
 ### University of Rochester
 ### Rochester, NY
 ### Degrees Received 05/2009
+
+# Teaching Experience
+## Adjunct Faculty 
+### Valencia Community College
+### Orlando, FL
+### 12/2010 – 12/2013
+-	Teaching undergraduate physics and astronomy. Developed of hybrid physics courses.
+## Graduate Teaching Assistant 
+### University of Central Florida	
+### Orlando, FL
+### 8/2009 – 12/2013
+- Developed lab manuals and experiments for a studio mode mechanics course which includes video analysis. Lab Manuals published Kendall Hunt Publishing
+
+# Publications
+## ‘Metallization of the β-SiC(100) 3X2 Surface: a DFT Investigation’ James Westover, Hamid Oughaddou, Hanna Enriquez, Abdelkader Kara
+## ‘Electronic Structure of an organic/metal interface: Pentacene/Cu(110)’ Abdelkader Kara, Kathrin Müller, Thomas Brugger, James Westover, Thamas Greber, and Thomas Jung
+## ‘Initial velocity V-shapes of young asteroid families’ Bryce T. Bolin, Kevin J. Walsh, Alessandro Morbidelli, Marco Delbo
+- Acknowledgement: “BTB would like to acknowledge James W. Westover for thought-provoking discussions on the implementation of large-scale computing resources and algorithms that were used in the completion of this work.”
+
