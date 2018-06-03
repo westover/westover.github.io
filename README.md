@@ -21,6 +21,13 @@ James is a technologist, scientist, developer, and technology leader.
 - Familiar with many commercial software packages including but not limited to R, SPSS, Mathematica, Maple, Matlab, SciLab, LabView, Autodesk Inventor, AutoCAD, Microsoft Office, iWork suite, Adobe), Logger Pro.
 
 # Technical Experience
+## Software Engineering Manager Location Platform
+### Uber
+### California, USA
+### 02/2018 – present
+-	Responsible for the location pipeline of all rider and driver locations
+-	Project management
+-	GDPR efforts around securing location data
 
 ## Software Engineering Manager Capture Systems Highly Autonomous Driving (HAD) / Senior Software Architect Capture Systems Highly Autonomous Driving (HAD)
 ### HERE
@@ -114,8 +121,11 @@ James is a technologist, scientist, developer, and technology leader.
 - Developed lab manuals and experiments for a studio mode mechanics course which includes video analysis. Lab Manuals published Kendall Hunt Publishing
 
 # Publications
-## ‘Metallization of the β-SiC(100) 3X2 Surface: a DFT Investigation’ James Westover, Hamid Oughaddou, Hanna Enriquez, Abdelkader Kara
-## ‘Electronic Structure of an organic/metal interface: Pentacene/Cu(110)’ Abdelkader Kara, Kathrin Müller, Thomas Brugger, James Westover, Thamas Greber, and Thomas Jung
-## ‘Initial velocity V-shapes of young asteroid families’ Bryce T. Bolin, Kevin J. Walsh, Alessandro Morbidelli, Marco Delbo
+## ‘Metallization of the β-SiC(100) 3X2 Surface: a DFT Investigation’ 
+James Westover, Hamid Oughaddou, Hanna Enriquez, Abdelkader Kara
+## ‘Electronic Structure of an organic/metal interface: Pentacene/Cu(110)’ 
+Abdelkader Kara, Kathrin Müller, Thomas Brugger, James Westover, Thamas Greber, and Thomas Jung
+## ‘Initial velocity V-shapes of young asteroid families’ 
+Bryce T. Bolin, Kevin J. Walsh, Alessandro Morbidelli, Marco Delbo
 - Acknowledgement: “BTB would like to acknowledge James W. Westover for thought-provoking discussions on the implementation of large-scale computing resources and algorithms that were used in the completion of this work.”
 
