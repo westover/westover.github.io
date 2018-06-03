@@ -42,7 +42,7 @@ James is a technologist, scientist, developer, and technology leader.
 ### 12/2013 – 01/2015
 •	Reporting service, real time ad service, and large scale data warehousing.
 •	Realtime log analytics using Logstash, set approximations with HyperLogLog and minhash techniques. Query optimization, pandas, numpy, and scipy.
-## Website Consultant </br>Rohrer Corporation	Ohio, USA
+## Website Consultant </br>Rohrer Corporation </br>	Ohio, USA
 ## Research Fellow </br>Karlsruhe Institute for Technology </br> Karlsruhe, Germany
 ### 6/2011 – 8/2011
 •	Fellowship performing Density Functional Theory calculations of phonon dispersion on alpha-quartz surfaces. Based on knowledge of solid state physics and crystallography.
