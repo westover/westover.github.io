@@ -27,11 +27,10 @@ James is a technologist, scientist, developer, and technology leader.
 -	Online MBA program 
 -	Sections: Finance, Accounting, Leadership, Strategy, Economics, Project Management
 
-## PhD Candidate, Physics</br> University of Central Florida	Orlando, FL </br> MS, Physics\n University of Central Florida	Orlando, FL
+## PhD Candidate, Physics </br> MS, Physics</br> University of Central Florida	Orlando, FL
 ### 08/2009 - MS Awarded 12/17/2010
 -	Research focus Computational Physics. Simulations carried out using VASP, ASE, GPAW, Gaussian and several MD packages.
 -	Thesis title: Computational Studies of the Physical Properties of Interfaces Between Organic and Metallic Systems
 
-## Bachelor of Science, Physics | University of Rochester	Rochester, NY
-## Bachelor of Science, Applied Mathematics | University of Rochester	Rochester, NY
+## Bachelor of Science, Physics </br> Bachelor of Science, Applied Mathematics </br> University of Rochester	Rochester, NY
 ### Degrees Received 05/2009
