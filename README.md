@@ -50,21 +50,33 @@ James is a technologist, scientist, developer, and technology leader.
 ### 12/2013 – 01/2015
 •	Reporting service, real time ad service, and large scale data warehousing.
 •	Realtime log analytics using Logstash, set approximations with HyperLogLog and minhash techniques. Query optimization, pandas, numpy, and scipy.
-## Website Consultant </br>Rohrer Corporation </br>	Ohio, USA
-## Research Fellow </br>Karlsruhe Institute for Technology </br> Karlsruhe, Germany
+## Website Consultant 
+### Rohrer Corporation
+### Ohio, USA
+## Research Fellow 
+### Karlsruhe Institute for Technology 
+### Karlsruhe, Germany
 ### 6/2011 – 8/2011
 •	Fellowship performing Density Functional Theory calculations of phonon dispersion on alpha-quartz surfaces. Based on knowledge of solid state physics and crystallography.
-## Graduate Research Assistant </br>University of Central Florida </br>	Orlando, FL
+## Graduate Research Assistant
+### University of Central Florida
+### Orlando, FL
 ### 3/2010 – 12/2013
 •	Lead student of the research group and have worked on a variety of simulations of materials with a variety of theory levels involved. Research involved here based in organic electronics and nanotechnology. Utilized the features of Python, numpy, scipy
-## Exploratory Data Analyst</br>Kitco Metals Inc.</br>	Rochester, NY
+## Exploratory Data Analyst
+### Kitco Metals Inc.
+### Rochester, NY
 ### 7/2009 – 9/2009
 •	Modeling gold prices. Data reduction techniques and novel parallelization techniques
-## Systems Administrator</br>University of Rochester: Department of Physics	</br> Rochester, NY
+## Systems Administrator
+### University of Rochester: Department of Physics	
+### Rochester, NY
 ### 10/2006 – 12/2012
 •	Work directly with the systems engineer on maintaining approximately 300 machines
 •	Server virtualization using Xen, KVM and Hyper-V Virtual Box private cloud services Eucalyptus and Open Nebula. Beowulf Clustering using ROCKS
-## Research Assistant</br>University of Rochester: Department of Physics </br>Rochester, NY
+## Research Assistant
+### University of Rochester: Department of Physics 
+### Rochester, NY
 ### 9/2008 – 5/2009
 •	Building and installing a hardware and software replacement of a computer control system, which requires microsecond resolution, while concurrently developing in NI LabView replacement software.
 
@@ -72,15 +84,21 @@ James is a technologist, scientist, developer, and technology leader.
 
 # Education
 
-## MBA</br> Smart.Ly </br>Online
+## MBA
+### Smart.Ly 
+### Online
 ### 03/2017 – 08/2017
 -	Online MBA program 
 -	Sections: Finance, Accounting, Leadership, Strategy, Economics, Project Management
 
-## PhD Candidate, Physics </br> MS, Physics</br> University of Central Florida	</br> Orlando, FL
+## PhD Candidate, Physics & MS, Physics 
+### University of Central Florida
+### Orlando, FL
 ### 08/2009 - MS Awarded 12/17/2010
 -	Research focus Computational Physics. Simulations carried out using VASP, ASE, GPAW, Gaussian and several MD packages.
 -	Thesis title: Computational Studies of the Physical Properties of Interfaces Between Organic and Metallic Systems
 
-## Bachelor of Science, Physics </br> Bachelor of Science, Applied Mathematics </br> University of Rochester</br>	Rochester, NY
+## Bachelor of Science, Physics & Bachelor of Science, Applied Mathematics 
+### University of Rochester
+### Rochester, NY
 ### Degrees Received 05/2009
