@@ -122,10 +122,10 @@ James is a technologist, scientist, developer, and technology leader.
 
 # Publications
 ## ‘Metallization of the β-SiC(100) 3X2 Surface: a DFT Investigation’ 
-James Westover, Hamid Oughaddou, Hanna Enriquez, Abdelkader Kara
+### James Westover, Hamid Oughaddou, Hanna Enriquez, Abdelkader Kara
 ## ‘Electronic Structure of an organic/metal interface: Pentacene/Cu(110)’ 
-Abdelkader Kara, Kathrin Müller, Thomas Brugger, James Westover, Thamas Greber, and Thomas Jung
+### Abdelkader Kara, Kathrin Müller, Thomas Brugger, James Westover, Thamas Greber, and Thomas Jung
 ## ‘Initial velocity V-shapes of young asteroid families’ 
-Bryce T. Bolin, Kevin J. Walsh, Alessandro Morbidelli, Marco Delbo
+### Bryce T. Bolin, Kevin J. Walsh, Alessandro Morbidelli, Marco Delbo
 - Acknowledgement: “BTB would like to acknowledge James W. Westover for thought-provoking discussions on the implementation of large-scale computing resources and algorithms that were used in the completion of this work.”
 
