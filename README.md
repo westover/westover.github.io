@@ -22,12 +22,12 @@ James is a technologist, scientist, developer, and technology leader.
 
 # Education
 
-## MBA\n Smart.Ly Online
+## MBA</br> Smart.Ly Online
 ### 03/2017 – 08/2017
 -	Online MBA program 
 -	Sections: Finance, Accounting, Leadership, Strategy, Economics, Project Management
 
-## PhD Candidate, Physics\n University of Central Florida	Orlando, FL \n MS, Physics\n University of Central Florida	Orlando, FL
+## PhD Candidate, Physics</br> University of Central Florida	Orlando, FL </br> MS, Physics\n University of Central Florida	Orlando, FL
 ### 08/2009 - MS Awarded 12/17/2010
 -	Research focus Computational Physics. Simulations carried out using VASP, ASE, GPAW, Gaussian and several MD packages.
 -	Thesis title: Computational Studies of the Physical Properties of Interfaces Between Organic and Metallic Systems
