@@ -22,7 +22,7 @@ James is a technologist, scientist, developer, and technology leader.
 
 # Education
 
-## MBA | Smart.Ly	Online
+## MBA  Smart.Ly Online
 ### 03/2017 – 08/2017
 -	Online MBA program 
 -	Sections: Finance, Accounting, Leadership, Strategy, Economics, Project Management
