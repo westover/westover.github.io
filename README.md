@@ -22,7 +22,9 @@ James is a technologist, scientist, developer, and technology leader.
 
 # Technical Experience
 
-## Software Engineering Manager Capture Systems Highly Autonomous Driving (HAD) </br>Senior Software Architect Capture Systems Highly Autonomous Driving (HAD)</br>HERE	</br> California, USA
+## Software Engineering Manager Capture Systems Highly Autonomous Driving (HAD) / Senior Software Architect Capture Systems Highly Autonomous Driving (HAD)
+### HERE
+### California, USA
 ### 04/2015 – 02/2018
 •	Large Scale data collection efforts
 •	Real time feature detection applications (deployment of deep nets)
