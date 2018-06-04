@@ -1,3 +1,8 @@
+---
+layout: page
+title: Resume
+permalink: /resume/
+---
 ## James Westover
 
 James is a technologist, scientist, developer, and technology leader.
