@@ -65,7 +65,8 @@ I am an avid Python developer with a true passion for its flexibility and perfor
 *January 2019 - June 2020 (1 year 6 months)*  
 - Founding member of the Python Platform team at Uber. Supported all Python development at Uber.
 - Handled large scale Python 2 to 3 migration across the whole company.
-- Scraped and built a full set of dependencies for all Python-based services, analyzed the graph, and targeted and completed the transcoding needed for the top 200 dependencies covering more than 90% of all services.
+- Scraped and built a full set of dependencies for all Python-based microservices, analyzed the graph, and targeted and completed the transcoding needed for the top 200 dependencies covering more than 90% of all services.
+- Notable work regarding python 2 -> 3 included an overhaul of the Uber open source tornado based thrift encoding library tchannel-python
 
 **Software Engineering Manager**  
 *February 2018 - January 2019 (1 year)*  
@@ -84,6 +85,7 @@ I am an avid Python developer with a true passion for its flexibility and perfor
 *April 2015 - April 2016 (1 year 1 month)*  
 - Involved in large-scale distributed systems efforts.
 - Spearheaded a project using Apache Storm for stream processing to conduct real-time and batch analytics for the company's mapping fleet.
+- Launched new python based microservices built using tornado for serving the data processed by our python based nodes in our Storm cluster as well as managing our batch workflow on Storm
 
 ### SkilledUp
 **Senior Python Engineer**  
