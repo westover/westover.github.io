@@ -54,7 +54,7 @@ I am an avid Python developer with a true passion for its flexibility and perfor
 - Joined Uber's navigation team, contributing to one of Uber's largest services (java based 1400+ nodes per data center), responsible for mapping services for all Uber applications.
 - Developed on-device software to ingest new data from the cloud to improve inferences regarding off-route detection.
 - Developed and enhanced python based simulation software for testing off-route detection algorithm changes. 
-- While the detection engine was written in Java for inclusion in both the iOS app(via transpiling) and Android app all the data loading and multiprocessing based parallelization was done in python.
+- While the detection engine was written in Java for inclusion in both the iOS app(via transpiling) and Android app all the data loading and multiprocessing based parallelization for testing different configurations was done in python.
 
 ### Postmates Inc.
 **Sr Software Engineer 2**  
