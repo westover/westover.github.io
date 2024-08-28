@@ -42,6 +42,7 @@ I am an avid Python developer with a true passion for its flexibility and perfor
 - Technical leader for projects. Engage in contract work for various businesses and government agencies.
 - Notable bids/projects:
   - NJ Transit authority bid for real-time passenger occupancy based on video feeds coming from the train. Proof of concept built on top of AWS using ECS for deployment, Elastic IPs, and different ML/AI products within AWS.
+  - ECS containers deployed were python based microservices including using Django for a serving layer in ECS. Used Amazon Keyspaces and S3 for storage for the pipeline configuration of microservices.
   - Ghosthunter app: Developed a React Native app which interfaces with the POC built for NJTA to do basic object detection and bounding boxes from images captured on the device. Released on Google Play Store and the Apple App Store using the Expo services.
 
 ### Uber
@@ -49,9 +50,11 @@ I am an avid Python developer with a true passion for its flexibility and perfor
 *February 2021 - October 2022 (1 year 9 months)*  
 - Postmates Acquisition and Navigation Team at Uber.
 - Key role in the integration process following the Postmates acquisition, focusing on system maintenance and continuous on-call duties.
-- Developed data deletion strategies across distributed databases in different clouds, maintaining compliance with data regulations.
-- Joined Uber's navigation team, contributing to one of Uber's largest services (1400+ nodes per data center), responsible for mapping services for all Uber applications.
+- Developed data deletion strategies across distributed databases in different clouds, maintaining compliance with data regulations. This was done with GO based microservices
+- Joined Uber's navigation team, contributing to one of Uber's largest services (java based 1400+ nodes per data center), responsible for mapping services for all Uber applications.
 - Developed on-device software to ingest new data from the cloud to improve inferences regarding off-route detection.
+- Developed and enhanced python based simulation software for testing off-route detection algorithm changes. 
+- While the detection engine was written in Java for inclusion in both the iOS app(via transpiling) and Android app all the data loading and multiprocessing based parallelization was done in python.
 
 ### Postmates Inc.
 **Sr Software Engineer 2**  
