@@ -7,7 +7,7 @@ permalink: /resume/
 
 **Address:** 107 Virginia Hills Drive Unit 4, Martinez, CA 94553  
 **Phone:** 585-429-0817  
-**Email:** james.westover@icloud.com
+**Email:** james@westover.dev
 
 ## Summary
 
