@@ -32,18 +32,26 @@ I am an avid Python developer with a true passion for its flexibility and perfor
 - Experience in multithreaded, multiprocess, event-driven Python applications. Experience in novel parallelization and MPI(MPICH2, OpenMPI, and OMP) in both Python and FORTRAN.
 - Experience in constructing computer clusters including a private cloud in a small enterprise situation. Built both disked and diskless clusters using a variety of packages including Eucalyptus, ROCKS, XenServer. Some clusters included NAS disk hosts.
 - Familiar with many commercial software packages including but not limited to R, SPSS, Mathematica, Maple, Matlab, SciLab, LabView, Autodesk Inventor, AutoCAD, Microsoft Office, iWork suite, Adobe, Logger Pro.
-- **Top Skills:** Django, Amazon ECS, AWS SageMaker
+- **Top Skills:** Python, Django, Amazon ECS, AWS SageMaker
 
 ## Experience
 
+### Urbn
+**Software Engineer**  
+*September 2024 - Present*  
+- Help maintain Django app for managing URBN's internal product catalog
+- Working on improving build systems
+- Helping with their task processing systems using celery and Kafka
+
 ### Neher Data Systems
 **CTO**  
-*January 2023 - Present (1 year 6 months)*  
+*January 2023 - Present*  
 - Technical leader for projects. Engage in contract work for various businesses and government agencies.
 - Notable bids/projects:
   - NJ Transit authority bid for real-time passenger occupancy based on video feeds coming from the train. Proof of concept built on top of AWS using ECS for deployment, Elastic IPs, and different ML/AI products within AWS.
   - ECS containers deployed were python based microservices including using Django for a serving layer in ECS. Used Amazon Keyspaces and S3 for storage for the pipeline configuration of microservices.
   - Ghosthunter app: Developed a React Native app which interfaces with the POC built for NJTA to do basic object detection and bounding boxes from images captured on the device. Released on Google Play Store and the Apple App Store using the Expo services.
+  - Ghosthunter app 2: Extending the react native app to do more work on device for producing detections.
 
 ### Uber
 **Staff Software Engineer**  
